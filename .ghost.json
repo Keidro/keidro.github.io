@@ -1,0 +1,10 @@
+{
+  "development": {
+    "apiUrl": "http://keidro.github.io",
+    "contentApiKey": "4f90da8d747e208453148693b8"
+  },
+  "production": {
+    "apiUrl": "http://keidro.github.io",
+    "contentApiKey": "4f90da8d747e208453148693b8"
+  }
+}
